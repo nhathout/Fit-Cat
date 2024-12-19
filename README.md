@@ -119,6 +119,10 @@ This smart cat collar project is designed to capture, log, and transmit real-tim
 - [**Device Functionality Demo Video**](https://drive.google.com/file/d/1tmxS8HGcO_dwnGMNcW7fP4neTti4bQX-/view?usp=sharing)
 - [**Design Walkthrough Video**](https://drive.google.com/file/d/1KdEOFxNXSFyghgzOxwIRIRRMS36AR_G7/view?usp=sharing)
 
+## Appendix
+
+![circuit-diagram](https://github.com/nhathout/Fit-Cat/blob/main/CatCollarDiagram.jpg)
+
 ---
 
 This smart cat collar prototype demonstrates a robust system capable of monitoring feline activity, displaying meaningful states on an alphanumeric display, and participating in a networked leader determination setup. Its extensible architecture, modular tasks, and well-defined communication patterns make it a strong foundation for future enhancements, fine-tuning, and real-world adoption.
